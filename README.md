@@ -1,1 +1,1 @@
-Projeto Dio
+#Projeto Dio - Criando um front-end totalmente componentizado na prática com ReactJS.

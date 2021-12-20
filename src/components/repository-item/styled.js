@@ -9,7 +9,7 @@ export const Wrapper = styled.div`
   height: 150px;
   align-content: center;
   color: #191970;
-  
+  background-color: #dcdcdc;
 `;
 
 export const WrapperTitle = styled.h2`

@@ -6,6 +6,7 @@ export const WrapperTabs = styled(Tabs)`
   width: 100%;
   margin-top: 16px;
   
+  
 `;
 
 export const WrapperTabList = styled(TabList)`
@@ -13,10 +14,12 @@ export const WrapperTabList = styled(TabList)`
   padding: 4px;
   display: flex;
   margin: 0;
+  
 `;
 WrapperTabList.tabsRole = "TabList";
 
 export const WrapperTab = styled(Tab)`
+ 
   border-radius: 16px;
   border: 1px solid #c0c0c0;
   padding: 16px;
@@ -25,7 +28,8 @@ export const WrapperTab = styled(Tab)`
   z-index: 99999;
   background-color: #dcdcdc;
   margin: 8px;
-
+  color: #191970;
+  font-weight: bold;
   &:focus {
     outline: none;
   }

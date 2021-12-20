@@ -5,7 +5,9 @@ export const Wrapper = styled.div`
   align-items: flex-start;
   margin-top: 10px; 
   background-color: #dfdfdf; 
-  border: 1px solid #c0c0c0;  
+  border: 1px solid #c0c0c0; 
+  border-radius: 8px; 
+  padding: 8px;
 `;
 
 export const WrapperInfoUser = styled.div`

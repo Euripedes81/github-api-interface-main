@@ -3,10 +3,9 @@ import styled from "styled-components";
 export const Wrapper = styled.div`
   display: flex;
   align-items: flex-start;
-  margin-top: 10px; 
-  background-color: #dfdfdf; 
-  border: 1px solid #c0c0c0; 
-  border-radius: 8px; 
+  margin-top: 0px; 
+  background-color: #f5f5f5; 
+  border: 1px solid #c0c0c0;   
   padding: 8px;
 `;
 

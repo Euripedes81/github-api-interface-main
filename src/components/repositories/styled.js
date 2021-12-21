@@ -27,13 +27,16 @@ export const WrapperTab = styled(Tab)`
   cursor: pointer;
   z-index: 99999;
   background-color: #dcdcdc;
-  margin: 8px;
+  /*margin: 8px;*/
   color: #191970;
-  font-weight: bold;
+  font-weight: bolder;
   &:focus {
     outline: none;
   }
-
+  &:hover {
+    background-color: #f8f8ff;
+    box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.2);
+  }
   &.is-selected {
     box-shadow: 3px 2px 10px rgba(0, 0, 0, 0.2);
   }

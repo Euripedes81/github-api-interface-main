@@ -1,8 +1,9 @@
 import styled from "styled-components";
 
 export const WrapperLayout = styled.section`
-  margin: 16px;
-  padding: auto; 
-  background-color: #f5f5f5;
-  border-radius: 8px;   
+  background-color: #f5f5f5;   
+  margin: auto;
+  padding: auto;  
+  border-radius: 8px;  
 `;
+

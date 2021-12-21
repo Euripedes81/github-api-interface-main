@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 export const Wrapper = styled.div`
-  margin: 16px;
+  margin-bottom: 31%; 
   display: flex;
   justify-content: center; 
 
